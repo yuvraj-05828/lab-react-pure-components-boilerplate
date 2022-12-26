@@ -1,0 +1,1 @@
+# lab-react-pure-components-boilerplate
