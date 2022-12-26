@@ -13,7 +13,8 @@ Initially the value of `toggle` should be false; and you can set the value of `t
 
 Your task is to implement, the above problem statement using class component which extends - 
 1. Component
-2. Pure Component
+2. PureComponent
+
 
 ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/pure-component-react.gif)
 
